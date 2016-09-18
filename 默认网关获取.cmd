@@ -1,0 +1,4 @@
+cmd /k  ipconfig
+
+
+
