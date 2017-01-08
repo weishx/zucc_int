@@ -37,4 +37,6 @@
 ---
 Zucc_L2tp_Client文件夹中为学校闪讯·移动·联通客户端
 
-客户端有更新可以到[lessues](https://github.com/skkkyoyo/zucc_int/issues)里面告诉我
+客户端有更新可以将安装包上传到[lessues](https://github.com/skkkyoyo/zucc_int/issues)里面告诉我
+
+寝室路由器使用方法[点击这里查看](https://github.com/skkkyoyo/zucc_int/issues/2)
